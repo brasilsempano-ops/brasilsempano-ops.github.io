@@ -36,12 +36,6 @@ que vantagem?
 
 > A nova solução conecta mercados, aproxima consumidores e vendedores de diferentes países e contribui para o fortalecimento dos fluxos comerciais transfronteiriços com segurança, eficiência e conformidade regulatória.
 
-<div class="mermaid">
-graph TD
-    A[Início] --> B[Processamento]
-    B --> C[Fim]
-</div>
-
 
 ## Diagrama frete
 ```mermaid
